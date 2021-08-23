@@ -98,7 +98,7 @@ $ git commit -m “<message>”
 
  - Clone the repository to have a local copy:
 ```
-$ git clone https://oauth2:gkLjhh5W4te-cJngRBxB@gitlab.com/sela-git-basic-workshop/lab-02.git
+$ git clone https://github.com/DudyShavit/git-labs.git
 ```
 
  - Move to the cloned repository working area:
