@@ -7,7 +7,7 @@ Lab 5: Undoing Changes
 
  - Use the following command to clone a repo:
 ```
-$ git clone https://oauth2:gkLjhh5W4te-cJngRBxB@gitlab.com/sela-git-basic-workshop/lab-05.git
+$ git clone https://github.com/DudyShavit/git-labs.git
 $ cd lab-05
 ```
 
