@@ -14,7 +14,7 @@ $ git clone https://github.com/DudyShavit/HelloWorld2.git
 
  - Edit the README.md file adding a line with your name and workplace:
 ```
-Leon Jalfon - Sela Group
+Dudy Shavit - Ort College
 ```
 
  - Commit your changes locally:
