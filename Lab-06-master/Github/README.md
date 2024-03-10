@@ -20,7 +20,7 @@ Dudy Shavit - Ort College
  - Commit your changes locally:
 ```
 $ git add -A
-$ git commit -m "Add name leon jalfon"
+$ git commit -m "Add name dudy shavit"
 ```
 
  - Push your changes to the remote repository:
