@@ -8,12 +8,12 @@ Lab 7: Using the Feature Branch Workflow
 
  - Browse to the hello-world-workflow repository page:
 ```
-https://github.com/sela-workshops/hello-world-workflow
+https://github.com/DudyShavit/hello-world-workflow
 ```
 
  - Clone the repository locally using the command:
 ```
-$ git clone https://5ad321a8178cd7d06bb494ad1eedb6f77f10631f@github.com/sela-workshops/hello-world-workflow.git
+$ git clone https://github.com/DudyShavit/hello-world-workflow.git
 ```
 
  - Create a feature branch for your changes (and move to the branch):
@@ -23,13 +23,13 @@ $ git checkout -b feature/<your-name>
 
  - Edit the README.md file adding a line with your name and workplace:
 ```
-Leon Jalfon - Sela Group
+David Shavit - Ort college
 ```
 
  - Commit your changes locally:
 ```
 $ git add -A
-$ git commit -m "Add name leon jalfon"
+$ git commit -m "Add name dudy shavit"
 ```
 
  - Push your changes to the remote repository (creating the branch in the remote repo):
@@ -39,13 +39,13 @@ $ git push -u origin feature/<your-name>
 
  - Edit the README.md file adding a line with your name and job title:
 ```
-Leon Jalfon - DevOps Architect
+David Shavit - DevOps Lecturer
 ```
 
  - Commit your changes locally:
 ```
 $ git add -A
-$ git commit -m "Add job title leon jalfon"
+$ git commit -m "Add job title david shavit"
 ```
 
  - Push your changes to the remote repository:
@@ -55,13 +55,13 @@ $ git push
 
  - Edit the README.md file adding a line with your name and city of residence:
 ```
-Leon Jalfon - Givatayim
+David Shavit - Elad
 ```
 
  - Commit your changes locally:
 ```
 $ git add -A
-$ git commit -m "Add city leon jalfon"
+$ git commit -m "Add city david shavit"
 ```
 
  - Push your changes to the remote repository:
