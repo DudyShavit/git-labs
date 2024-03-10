@@ -73,15 +73,15 @@ $ git pull
 $ cat README.md
 ```
 
- - Edit the README.md file adding a line with your name and job title:
+ - Edit the README.md file adding a line with your name and birthday:
 ```
-Leon Jalfon - DevOps Architect
+Dudy Shavit - 23 Av 5741 (23-aug-81)
 ```
 
  - Commit your changes locally:
 ```
 $ git add -A
-$ git commit -m "Add job title leon jalfon"
+$ git commit -m "Add birth day"
 ```
 
  - Push your changes to the remote repository:
@@ -91,13 +91,13 @@ $ git push origin master
 
  - Edit the README.md file adding a line with your name and city of residence:
 ```
-Leon Jalfon - Givatayim
+dudy shavit - Elad
 ```
 
  - Commit your changes locally:
 ```
 $ git add -A
-$ git commit -m "Add city leon jalfon"
+$ git commit -m "Add city dudy shavit"
 ```
 
  - Push your changes to the remote repository:
