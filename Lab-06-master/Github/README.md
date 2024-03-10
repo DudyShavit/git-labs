@@ -12,9 +12,9 @@ Lab 6: Working with Remotes
 $ git clone https://github.com/DudyShavit/HelloWorld2.git
 ```
 
- - Edit the README.md file adding a line with your name and workplace:
+ - Edit the README.md file adding a line with your name and group:
 ```
-Dudy Shavit - Ort College
+Dudy Shavit - Devops Ort College
 ```
 
  - Commit your changes locally:
