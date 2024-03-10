@@ -6,14 +6,10 @@ Lab 6: Working with Remotes
 ## Exercise
 
 
- - Browse to the hello-world repository page:
 ```
-https://5ad321a8178cd7d06bb494ad1eedb6f77f10631f@github.com/sela-workshops/hello-world.git
-```
-
  - Clone the repository locally using the command:
 ```
-$ git clone https://github.com/sela-workshops/hello-world.git
+$ git clone https://github.com/DudyShavit/HelloWorld2.git
 ```
 
  - Edit the README.md file adding a line with your name and workplace:
