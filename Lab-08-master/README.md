@@ -20,7 +20,7 @@ $ git clone https://github.com/DudyShavit/submodule-repo.git app
   - Add a nested-repo as a submodule to the repository:
 ```
 $ cd ~/lab07/submodule-repo
-$ git submodule add https://gitlab.com/advanced-git-course/nested-repo.git submodule
+$ git submodule add https://github.com/DudyShavit/nested-repo.git submodule
 ```
 
   - Let's inspect the .gitmodules file:
