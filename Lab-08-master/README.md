@@ -9,7 +9,7 @@ Lab 07: Working with submodules
  
 ```
 $ mkdir ~/lab07
-$ cd ~/lab07
+$ cd ~/lab08
 $ git clone https://github.com/DudyShavit/submodule-repo.git app
 ```
 
@@ -19,7 +19,7 @@ $ git clone https://github.com/DudyShavit/submodule-repo.git app
 
   - Add a nested-repo as a submodule to the repository:
 ```
-$ cd ~/lab07/submodule-repo
+$ cd ~/lab08/app
 $ git submodule add https://github.com/DudyShavit/nested-repo.git submodule
 ```
 
