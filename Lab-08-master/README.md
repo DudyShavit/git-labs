@@ -95,6 +95,11 @@ $ git commit -m "main project changes"
 ```
 $ cd submodule
 $ git log --oneline --decorate
+$ git checkout -b feature
+$ echo content > newfile2.txt
+$ git add .
+$ git commit -m "new feature"
+$ git checkout main
 $ git branch -a
 ```
 
