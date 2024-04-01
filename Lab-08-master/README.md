@@ -1,5 +1,5 @@
 # Advanced Git Workshop
-Lab 07: Working with submodules
+Lab 08: Working with submodules
 
 ---
 
@@ -8,7 +8,7 @@ Lab 07: Working with submodules
  - Let's initialize our environment:
  
 ```
-$ mkdir ~/lab07
+$ mkdir ~/lab08
 $ cd ~/lab08
 $ git clone https://github.com/DudyShavit/submodule-repo.git app
 ```
