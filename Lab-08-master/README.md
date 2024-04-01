@@ -10,7 +10,7 @@ Lab 07: Working with submodules
 ```
 $ mkdir ~/lab07
 $ cd ~/lab07
-$ git clone https://gitlab.com/advanced-git-course/static-web-app.git submodule-repo
+$ git clone https://github.com/DudyShavit/submodule-repo.git app
 ```
 
 ---
